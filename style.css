@@ -9,12 +9,24 @@
     background-color: orange;
 }
 
-li {
+#homelist li {
     font-size: 40px;
     
 }
 
 img {
-    width: 310;
+    width: 420;
     height: auto;
 }
+
+li {
+    font-size: 18px;
+    width: 700px;
+    padding: 1%;
+}
+
+p {
+    font-size: 18px;
+    width: 700px;
+}
+
