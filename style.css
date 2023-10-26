@@ -1,0 +1,15 @@
+* {
+     font-family: Helvetica, "Times New Roman", sans-serif;
+} 
+
+
+.title {
+    font-size: 100px;
+    text-align: center;
+    background-color: orange;
+}
+
+.list {
+    font-size: 40px;
+    text-indent: 2%;
+}
