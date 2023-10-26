@@ -9,7 +9,12 @@
     background-color: orange;
 }
 
-.list {
+li {
     font-size: 40px;
-    text-indent: 2%;
+    
+}
+
+img {
+    width: 310;
+    height: auto;
 }
