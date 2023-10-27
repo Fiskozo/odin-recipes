@@ -2,25 +2,22 @@
      font-family: Helvetica, "Times New Roman", sans-serif;
 } 
 
-
 .title {
     font-size: 100px;
     text-align: center;
     background-color: orange;
-    padding-left: 0cm;
+    margin-top: 0%;
 }
 
 #homelist li {
     font-size: 40px;
-    
-}
+    }
 
 img {
     width: 420;
     height: auto;
     padding-left: 20%;
 }
-
 
 li {
     font-size: 18px;
