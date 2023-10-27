@@ -16,13 +16,14 @@
     width: 100%;
     text-align: center;
     align-self: center;
+    background-color: orange;
 }
 
 .home {
     height: 180px;
     width: auto;
     display: inline-flex;
-    margin-left: -50;  
+    margin-left: -50px;  
 }
 
 #homelist li {
