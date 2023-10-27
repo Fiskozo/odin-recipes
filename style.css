@@ -26,9 +26,27 @@
     margin-left: -50px;  
 }
 
-#homelist li {
+.homelistimg {
+    display: flex;
+    list-style: none;
     font-size: 40px;
-    }
+}
+
+.navimgli {
+    width: 100%;
+    text-align: center;
+
+}
+.navimg {
+    width: 420px;
+    height: 315px;
+}
+
+.link {
+    display: inline-block;
+    width: 420px;
+    height: 315px;
+}
 
 .result {
     width: 720px;
