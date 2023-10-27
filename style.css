@@ -1,6 +1,7 @@
 * {
-     font-family: Helvetica, "Times New Roman", sans-serif;
-     box-sizing: border-box;
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+     
 } 
 .top {
     display: inline-flex;
